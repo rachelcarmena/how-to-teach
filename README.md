@@ -1,1 +1,3 @@
 # How to teach...
+
+* [Git](git/README.md)
