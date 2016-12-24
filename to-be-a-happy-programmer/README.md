@@ -2,7 +2,7 @@
 
 ![clover](https://cdn2.iconfinder.com/data/icons/devine-icons-part-2/128/Cards-Club.png)
 
-*Programmer's life is like a card game. More cards you get, more possibilities to make a good play.*
+**Programmer's life is like a card game. More cards you get, more possibilities to make a good play.**
 
 * You get new cards for each conference you attend.
 * You get new cards for each book you read.
