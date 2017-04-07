@@ -6,6 +6,7 @@
 
 You get new cards for ...
 
+* ... each time you share your knowledge.
 * ... each conference you attend.
 * ... each book you read.
 * ... each time you think "What if ...".
@@ -17,4 +18,7 @@ You get new cards for ...
 
 Would you help me to complete it?
 
-NOTE: Remember, don't look for [silver bullets](https://en.wikipedia.org/wiki/No_Silver_Bullet). They don't exist and you won't find your solutions written in a book. You must play with the cards = you must think. Don't forget common sense and pragmatism.
+REMEMBER:
+* Don't look for [silver bullets](https://en.wikipedia.org/wiki/No_Silver_Bullet). They don't exist and you won't find your solutions written in a book. 
+* You must play with the cards = you must think. 
+* Don't forget common sense and pragmatism.
