@@ -37,9 +37,8 @@ NOTE: ``` -- ``` means _no more options; the following is a file_
 
 ## Status
 
-```git status```
-
-```git status --short```:
+* ```git status```
+* ```git status --short```:
     * ??: new
     * A: staged
     * M: modified
@@ -59,7 +58,7 @@ And: ```git push origin --tags``` or ```git push origin <tagname>```
 
 * ```git log```
 * To see changes: ```git log -p```
-* To see last x changes: ```git log -p -[x]```
+* To see last n changes: ```git log -p -<n>```
 * Statistics: ```git log --stat```
 * Formats:
     * ```git log --pretty=oneline```
