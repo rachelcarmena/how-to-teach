@@ -17,6 +17,8 @@ NOTE: ``` -- ``` means _no more options; the following is a file_
     * A change: ```git checkout -- [file]```
     * A file in staging: ```git reset HEAD -- [file]```
     * All changes and staged files (return to last commit): ```git reset --hard HEAD```
+    * Last local commit (staging the changes): ```git reset --soft HEAD^```
+    * A pushed commit: ```git revert <commit id>```
 
 ![states](states.png)
 
