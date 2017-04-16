@@ -81,3 +81,8 @@ And: ```git push origin --tags``` or ```git push origin <tagname>```
 # Further investigation
 
 ```git blame <file>```
+
+# Retrieving a lost commit 
+
+```git reflog```
+```git cherry-pick <commit>```
