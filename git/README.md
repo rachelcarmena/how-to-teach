@@ -71,6 +71,11 @@ And: ```git push origin --tags``` or ```git push origin <tagname>```
     * ```git log --since="2008-01-15"```
     * ```git log --since="2 years 1 day 3 minutes ago"```
     * ```git log --author=<author>```
-    * ```git log --grep=<words in commit message>```
+    * ```git log --grep=<regex for commit message>```
+    * ```git log --grep=<regex for commit message>``` -i
     * ```git log -S<changed string in commit>```
-    * ```git log --<path of modified file in commit>```
+    * ```git log -- <path of modified file in commit>```
+
+# Further investigation
+
+```git blame <file>```
