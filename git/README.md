@@ -74,4 +74,4 @@ And: ```git push origin --tags``` or ```git push origin <tagname>```
     * ```git log --author=<author>```
     * ```git log --grep=<words in commit message>```
     * ```git log -S<changed string in commit>```
-    * ```git log --<path of modified file in commit>
+    * ```git log --<path of modified file in commit>```
