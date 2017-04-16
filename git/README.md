@@ -39,12 +39,12 @@ NOTE: ``` -- ``` means _no more options; the following is a file_
 
 * ```git status```
 * ```git status --short```:
-    * ??: new
-    * A: staged
-    * M: modified
-    * _M: mofified, not staged
-    * M_: modified and staged
-    * MM: modified and staged; modified again without staged
+    * ```??```: new
+    * ```A```: staged
+    * ```M```: modified
+    * ```_M```: mofified, not staged
+    * ```M_```: modified and staged
+    * ```MM```: modified and staged; modified again without staged
 
 ## Tags
 
