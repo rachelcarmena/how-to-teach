@@ -84,5 +84,7 @@ And: ```git push origin --tags``` or ```git push origin <tagname>```
 
 # Retrieving a lost commit 
 
-```git reflog```
-```git cherry-pick <commit>```
+```
+git reflog
+git cherry-pick <commit>
+```
