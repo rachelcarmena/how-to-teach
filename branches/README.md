@@ -14,4 +14,5 @@ Git:
 * Create and switch to new branch: ```git checkout -b <name>```
 * Merged branches: ```git branch --merged```
 * Not merged branches: ```git branch --no-merged```
-* 
+* Remove local branch: ```git branch -d <branch>```
+* Remove remote branch: ```git push origin :<branch>``` 
