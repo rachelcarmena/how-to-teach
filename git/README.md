@@ -89,5 +89,5 @@ git reflog
 git cherry-pick <commit>
 ```
 
-## Interesting links
+# Interesting links
 * [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up) - thanks [@jaramir](https://github.com/jaramir)!!
