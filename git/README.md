@@ -88,3 +88,6 @@ And: ```git push origin --tags``` or ```git push origin <tagname>```
 git reflog
 git cherry-pick <commit>
 ```
+
+Interesting links:
+* [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up) - thanks [@jaramir](/jaramir)
