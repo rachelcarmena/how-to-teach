@@ -31,6 +31,8 @@ NOTE: ``` -- ``` means _no more options; the following is a file_
 
 ![pull](pull.png)
 
+* ```git pull --rebase```: any local changes are replayed
+
 ![stash-save](stash-save.png)
 
 ![stash-apply](stash-apply.png)
