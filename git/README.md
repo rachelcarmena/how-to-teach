@@ -92,4 +92,5 @@ git cherry-pick <commit>
 ```
 
 # Interesting links
+* [Visualizing Git](https://github.com/git-school/visualizing-git)
 * [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up) - thanks [@jaramir](https://github.com/jaramir)!!
