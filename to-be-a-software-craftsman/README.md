@@ -1,8 +1,8 @@
-# How to teach someone to be a happy programmer
+# How to teach someone to be a software craftsman
 
 ![clover](https://cdn2.iconfinder.com/data/icons/devine-icons-part-2/128/Cards-Club.png)
 
-**Programmer's life is like a card game. More cards you get, more possibilities to make a good play.**
+**Software craftsman's life is like a card game. More cards you get, more possibilities to make a good play.**
 
 You get new cards for ...
 
