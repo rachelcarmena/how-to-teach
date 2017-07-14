@@ -13,6 +13,10 @@ You get new cards for ...
 * ... each time you ask "What is this command doing really?".
 * ... each article you read.
 * ... each time you don't believe in magic and you discover the reason why now it works.
+* ... each time you listen to an apprentice with respect.
+* ... each time you get a simple solution for a complex problem.
+* ... each time you give feedback.
+* ... each time you receive feeback.
 * ... each time you say "Thank you!" to your co-worker ;)
 * ...
 
