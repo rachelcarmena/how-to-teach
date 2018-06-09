@@ -26,3 +26,4 @@ REMEMBER:
 * Don't look for [silver bullets](https://en.wikipedia.org/wiki/No_Silver_Bullet). They don't exist and you won't find your solutions written in a book. 
 * You must play with the cards = you must think. 
 * Don't forget common sense and pragmatism.
+* [List of tips extracted from The Pragmatic Programmer](https://pragprog.com/the-pragmatic-programmer/extracts/tips)
