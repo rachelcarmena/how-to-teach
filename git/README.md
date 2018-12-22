@@ -33,6 +33,8 @@ NOTE: ``` -- ``` means _no more options; the following is a file_
 
 * ```git pull --rebase```: any local changes are replayed
 
+![pull --rebase](pull-rebase.png)
+
 ![stash-save](stash-save.png)
 
 ![stash-apply](stash-apply.png)
