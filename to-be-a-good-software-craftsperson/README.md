@@ -27,3 +27,4 @@ REMEMBER:
 * You must play with the cards = you must think. 
 * Don't forget common sense and pragmatism.
 * [List of tips extracted from The Pragmatic Programmer](https://pragprog.com/the-pragmatic-programmer/extracts/tips)
+* [ACM Code of Ethics and Professional Conduct](https://ethics.acm.org)
