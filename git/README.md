@@ -1,3 +1,5 @@
+:loudspeaker: I included this idea in a post: [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html).
+
 # Git
 
 NOTE: ``` -- ``` means _no more options; the following is a file_
@@ -96,3 +98,5 @@ git cherry-pick <commit>
 # Interesting links
 * [Visualizing Git](https://github.com/git-school/visualizing-git)
 * [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up) - thanks [@jaramir](https://github.com/jaramir)!!
+
+:loudspeaker: I included this idea in a post: [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html).
