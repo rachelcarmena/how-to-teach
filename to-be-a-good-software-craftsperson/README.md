@@ -1,3 +1,5 @@
+:mega: I completed this idea in a post: [Our profession is a card game](https://rachelcarmena.github.io/2018/07/26/card-game.html).
+
 # How to teach someone to be a good software craftsperson
 
 ![clover](https://cdn2.iconfinder.com/data/icons/devine-icons-part-2/128/Cards-Club.png)
@@ -28,3 +30,5 @@ REMEMBER:
 * Don't forget common sense and pragmatism.
 * [List of tips extracted from The Pragmatic Programmer](https://pragprog.com/the-pragmatic-programmer/extracts/tips)
 * [ACM Code of Ethics and Professional Conduct](https://ethics.acm.org)
+
+:mega: I completed this idea in a post: [Our profession is a card game](https://rachelcarmena.github.io/2018/07/26/card-game.html).
